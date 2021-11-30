@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_list"
         mc:Ignorable="d"
-        Title="AJ'S Movies" Height="500" Width="400" Background="#FF9B4949" Foreground="Black" ResizeMode="NoResize" Cursor="Help">
+        Title="AJ'S Movies" Height="500" Width="400" Background="#FF9B4949" Foreground="Black" ResizeMode="NoResize">
     <Grid>
 
 
